@@ -22,9 +22,9 @@ Computer Science Senior @ University of Houston | Software & Data Engineering
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, C/C++, SQL (PostgreSQL), JavaScript, Bash, Java, HTML/CSS, R, Lua 
-**Backend & Data:** Node.js, REST APIs, Relational DB Design, PostgreSQL  
-**Tools & OS:** Git, Linux, Docker, MATLAB, Unity, VSCode, Visual Studio, LaTeX
+**Languages:** Python, C/C++, SQL (PostgreSQL), JavaScript, Bash, Java, HTML/CSS, R, Lua <br>
+**Backend & Data:** Node.js, REST APIs, Relational DB Design, PostgreSQL  <br>
+**Tools & OS:** Git, Linux, Docker, MATLAB, Unity, VSCode, Visual Studio, LaTeX <br>
 
 ---
 
