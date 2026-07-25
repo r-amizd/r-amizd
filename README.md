@@ -29,4 +29,4 @@ Computer Science Senior @ University of Houston | Software & Data Engineering
 ---
 
 ### 📫 Connect
-* **LinkedIn:** [linkedin.com/in/ramiz-dadabhoy](www.linkedin.com/in/ramiz-dadabhoy-32278134b)
+* **LinkedIn:** [linkedin.com/in/ramiz-dadabhoy](https://www.linkedin.com/in/ramiz-dadabhoy-32278134b)
